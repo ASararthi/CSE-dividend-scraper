@@ -1,0 +1,1 @@
+libraries required: pandas, BeautifulSoup, requests
